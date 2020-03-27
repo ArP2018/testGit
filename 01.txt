@@ -1,4 +1,4 @@
-Test Branch Merge
+Test Branch Conflict Merge
 add a new line
 i also add a new line
 i add another new line
